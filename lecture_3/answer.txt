@@ -1,0 +1,16 @@
+4. COMPONENT IDENTIFICATION
+1) CPU: 13th Gen Intel i5, 8 cores, 2.1 GHz
+2) RAM: Speed is 3200 MTs, 16GB RAM, DDR4 SO-DIMM
+3) GPU: NVIDIA GeForce RTX 3050, 4GB VRAM
+4) American Megatrends International, LLC. K3605VC.313, Last Updated 18/11/2024, SMBIOS Version 3.5
+
+5. BOOT ORDER
+OS, M.2, SATA SSD, USB; Yes.
+
+6. SCREEN RESOLUTION
+1920x1200. When I set it to portrait mode, my screen orientation flipped 90 degrees. I would probably
+use a portrait mode orientation if I had a vertical monitor or screen. When I change the resolution to 800x600 then everything becomes
+larger or more zoomed in and blurrier.
+
+7. MONITOR HARDWARE
+Screenshots included in zipfile

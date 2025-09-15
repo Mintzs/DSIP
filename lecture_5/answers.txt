@@ -1,0 +1,6 @@
+4. IP ADDRESS, ROUTING, & WEBREQUESTS
+
+- IP Address: [curl ifconfig.me] - 145.118.238.114  ,  ipconfig - 145.118.238.114
+	- Default Gateway: 145.118.236.1
+- IP Address with VPN: 51.158.254.154 , The results shows the IP Address changed because the VPN changed the geographic location of my laptop to Amsterdam
+- My IP address and gateway are both public as its outside the private range

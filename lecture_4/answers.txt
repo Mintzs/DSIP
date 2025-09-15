@@ -1,0 +1,15 @@
+5. DEVICE DRIVERS
+
+- How many active drivers are currently running on your system: 202
+- Location & Name of my wifi and network drivers:
+
+	- Wifi: Name - Intel(R) Wi-Fi 6E AX211 160MHz , Location - PCI bus 0, device 20, function 3 | C:\Windows\System32\DRIVERS\Netwtw6e.inf_amd64_e54b51f2feabd3c5\
+
+	- Network: Name - Bluetooth Device (Personal Area Network) , Location - on Intel(R) Wireless Bluetooth(R) | C:\Windows\System32\DRIVERS\bthpan.sys
+
+6.1 MONITOR ACTIVE PROCESSES
+- How much RAM and CPU does my browser use (seen in screenshot): 2.2% CPU, 1600.9 MB RAM
+
+6.2 FIND ACTIVE PROCESS LOCATIONS
+
+Location of browser: C:\Program Files\Google\Chrome\Application

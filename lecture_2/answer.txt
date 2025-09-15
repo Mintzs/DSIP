@@ -1,0 +1,24 @@
+"world": 77 6F 72 6C 64
+
+starting position of hello_world.doc: 00001840
+
+starting position of hello world 1 bit: 0000003E
+
+starting position of hello world 24 bit: 00000036
+
+What happens when I run hello_world.exe?
+The file is unable to open and an error message pop up saying "This app can't run on your PC"
+
+What happens when I upload hello_word.exe to the hex viewer, did it change the bytes inside the file?
+No, the bytes remained the same despite changing the extension of the file from .txt to .exe.
+
+What happens if I try to edit hello_world.txt after I made it read-only?
+I am able to add changes or edit the text, but when I try to save the file, it prompts me to save it as a separate file rather than
+as the same file (but just edited)
+
+7.0 DISKS, DRIVES, AND PARTITIONS
+
+1. one disk (disk 0)
+2. Capacity: 476.92 GB,  Model:	NVMe SAMSUNG MZVL8512HELU-00BTW, Read speed: 3500 MB/s, Write speed: 2,900 MB/s
+3. 4 Partitions, Partition sizes: 260 MB, 260 MB, 1.07GB, 475.34 GB , One partition contains my OS (475.34GB), one partition is an EFI system partition that contains data (260 MB), one partition is the backup or recovery partition for the previous one (260 MB), one is a recovery partition (1.07 GB)
+
